@@ -5,7 +5,7 @@ ___
 
 * #### Необходимо создать clone репозитория
 
-`git clone https://github.com/EvgenyMyznikov/Netology_django_diploma.git`
+`git clone https://github.com/KirillGu/django_dip`
 
 * #### Установить зависимости:
 
